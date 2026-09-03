@@ -6,9 +6,9 @@ Este repositorio se utilizará para practicar un flujo básico de colaboración 
 
 Comprender y aplicar los conceptos de:
 
-- Fork
-- Clone
-- Commit
+- Fork  -   OK
+- Clone -   Ok
+- Commit   
 - Push
 - Pull Request
 - Merge
